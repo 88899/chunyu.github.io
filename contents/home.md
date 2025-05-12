@@ -13,7 +13,7 @@ cmiao8[at]uic.edu
 
 #### Education
 Ph.D. Computer Science, University of Illinois Chicago, 2024—2029(expected).\
-M.S., Artificial Intellgence, University of Edinburgh, 2020—2021.\
+M.S., Artificial Intelligence, University of Edinburgh, 2020—2021.\
 B.S., Electronic Information, Xidian University, 2016—2020.
 
 #### Research Interests
